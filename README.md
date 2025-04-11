@@ -1,6 +1,6 @@
 # Multi-agentic RAG with Hugging Face Code Agents
 
-This repository accompanies the blog post [Multi-agentic RAG with Hugging Face Code Agents](https://medium.com/towards-data-science/multi-agentic-rag-with-hugging-face-code-agents-005822122930). This code is meant for educational purposes only. 
+This repository accompanies the very excellent blog post by Gabriele Sgroi, PhD  [Multi-agentic RAG with Hugging Face Code Agents](https://medium.com/towards-data-science/multi-agentic-rag-with-hugging-face-code-agents-005822122930). This code is meant for educational purposes only. I  am using here as a wrapper to test my own agent to search websites other than wikipedia.  Many many thanks to Dr. Sgroi!
 
 Code agents work by executing Python code, make sure you run the code in an isolated environment and don't allow any unsafe import or function. Always supervise the system execution inspecting the logs, and interrupt the execution if the system is trying to execute code that may pose risks.
 
